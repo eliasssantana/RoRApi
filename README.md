@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# RoRApi
+Ruby on Rails simple API.
+>>>>>>> 8ce9cba5cf1900d0c48ad9aa6b5288266579870f
